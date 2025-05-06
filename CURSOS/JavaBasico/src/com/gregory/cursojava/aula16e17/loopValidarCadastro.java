@@ -2,7 +2,7 @@ package com.gregory.cursojava.aula16e17;
 
 import java.util.Scanner;
 
-public class loopValidarCadastro {
+public class    loopValidarCadastro {
     public static void main(String[] args) {
 
         boolean cadastroValidado = false;
