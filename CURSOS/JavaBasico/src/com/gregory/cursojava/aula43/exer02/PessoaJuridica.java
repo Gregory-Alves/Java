@@ -1,4 +1,4 @@
-package com.gregory.cursojava.aula43.Exer02;
+package com.gregory.cursojava.aula43.exer02;
 
 public class PessoaJuridica extends Contribuinte {
     private String cnpj;
