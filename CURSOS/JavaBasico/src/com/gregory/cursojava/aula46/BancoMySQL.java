@@ -3,7 +3,7 @@ package com.gregory.cursojava.aula46;
 public class BancoMySQL implements BancoDados{
     @Override
     public void abrirConexao() {
-        
+
     }
 
     @Override
